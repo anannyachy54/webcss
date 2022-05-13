@@ -1,0 +1,52 @@
+
+
+.c1
+{
+    color:beige;
+    width:auto;
+    height:auto;
+   
+}
+
+body{
+    background-image:url('im4.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 700px;
+    width: 100%;
+
+}
+ h1{
+    
+  font-size: 80px;
+  
+   color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px rgb(237, 30, 244),
+    0 0 82px rgb(237, 30, 244),
+    0 0 92px rgb(237, 30, 244),
+    0 0 102px rgb(237, 30, 244),
+    0 0 151px rgb(237, 30, 244);
+  
+  
+  text-align: center;
+
+  
+  
+}
+ p{
+    background-color: rgba(199, 9, 209, 0.518); 
+    margin:50px;
+    align-content: center;
+    color:beige;
+    font-style: italic;
+   padding:15px;
+   bottom:300px;
+   position:fixed;
+       font-weight: :bold;
+    opacity:0.8;
+}
